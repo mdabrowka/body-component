@@ -1,0 +1,17 @@
+main {
+    display: flex;
+}
+
+img {
+    height: 1000px;
+    width: 500px;
+}
+
+.injury-type {
+    height: 150px;
+    width: 75px;
+}
+
+#injuries {
+    list-style-type: none;
+}
