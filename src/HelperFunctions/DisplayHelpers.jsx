@@ -13,10 +13,10 @@ export const renderFigure = () => {
              </div>
              <div> 
                  <ul id="injuries">
-                     <li><img class="injury-type" alt="bleeding" src={bleeding}/></li>
-                     <li><img class="injury-type" alt="bruise" src={bruise}/></li>
-                     <li><img class="injury-type" alt="fracture" src={fracture}/></li>
-                     <li><img class="injury-type" alt="laceration" src={laceration}/></li>
+                     <li><img className="injury-type" alt="bleeding" src={bleeding}/></li>
+                     <li><img className="injury-type" alt="bruise" src={bruise}/></li>
+                     <li><img className="injury-type" alt="fracture" src={fracture}/></li>
+                     <li><img className="injury-type" alt="laceration" src={laceration}/></li>
                  </ul>
              </div>
         </main>
